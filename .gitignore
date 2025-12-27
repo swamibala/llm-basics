@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Fine-tuning outputs
+functiongemma_lora_adapter/
+functiongemma_lora_out/
+functiongemma_merged/
